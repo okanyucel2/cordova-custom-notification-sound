@@ -1,0 +1,12 @@
+{
+  "name": "cordova-custom-notification-sound",
+  "version": "1.0.0",
+  "cordova": {
+    "id": "cordova-custom-notification-sound",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "description": "cordova-custom-notification-sound"
+}
