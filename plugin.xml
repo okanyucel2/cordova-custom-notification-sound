@@ -7,9 +7,11 @@
     <platform name="android">
         <allow-intent href="market:*" />
         <resource-file src="beep.wav" target="res/raw/beep.wav" />
+	<resource-file src="beep_v2.wav" target="res/raw/beep_v2.wav" />
     </platform>
     <platform name="ios">
         <resource-file src="beep.wav" target="Resources/beep.wav" />
+ 	<resource-file src="beep_v2.wav" target="Resources/beep_v2.wav" />	    
     </platform>
 
 </plugin>
